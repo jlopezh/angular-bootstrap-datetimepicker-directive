@@ -1,9 +1,7 @@
 {
-  "name"         : "angular-bootstrap-datetimepicker-directive",
-  "version"      : "0.1.3",
-  "authors"      : [
-    "Diosney <diosney.s@gmail.com>"
-  ],
+  "name"         : "jlopezh-angular-bootstrap-datetimepicker-directive",
+  "version"      : "0.1.4",
+  "authors"      : "Jose Luis Lopez",
   "description"  : "A wrapper directive around the bootstrap-datetimepicker component.",
   "main"         : "angular-bootstrap-datetimepicker-directive.js",
   "keywords"     : [
@@ -24,7 +22,7 @@
   ],
   "dependencies" : {
     "angular"                           : "*",
-    "eonasdan-bootstrap-datetimepicker" : ">=4.0.0",
+    "jlopezh-bootstrap-datetimepicker" : ">=4.0.0",
     "jquery"                            : "*"
   },
   "repository"   : {
